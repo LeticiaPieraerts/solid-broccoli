@@ -6658,6 +6658,12 @@ packages:
   - pkg:pypi/snowballstemmer?source=hash-mapping
   size: 58824
   timestamp: 1637143137377
+- pypi: .
+  name: solid-broccoli
+  version: 0.1.dev1+g9ed3085.d20250321
+  sha256: 4959718ff103693d75c9943d7637f1f95aba50b88ff36d9af47443f578a857cb
+  requires_python: '>=3.11'
+  editable: true
 - conda: https://conda.anaconda.org/conda-forge/noarch/soupsieve-2.5-pyhd8ed1ab_1.conda
   sha256: 54ae221033db8fbcd4998ccb07f3c3828b4d77e73b0c72b18c1d6a507059059c
   md5: 3f144b2c34f8cb5a9abd9ed23a39c561
@@ -7074,12 +7080,6 @@ packages:
   purls: []
   size: 151460
   timestamp: 1732982860332
-- pypi: .
-  name: template-project
-  version: 0.10.1.dev3+gb079642
-  sha256: 53c76ffba2134646c29627701ba8c632c1e9b15ca33685631c4a72fb362b3ae2
-  requires_python: '>=3.11'
-  editable: true
 - conda: https://conda.anaconda.org/conda-forge/noarch/tenacity-9.0.0-pyhd8ed1ab_1.conda
   sha256: dcf2155fb959773fb102066bfab8e7d79aff67054d142716979274a43fc85735
   md5: a09f66fe95a54a92172e56a4a97ba271

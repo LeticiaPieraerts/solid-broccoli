@@ -3,8 +3,8 @@
 import pandas as pd
 import pytask
 
-from template_project.config import BLD, SRC, TEMPLATE_GROUPS
-from template_project.final.plot_template import plot_regression_by_age
+from solid_broccoli.config import BLD, SRC, TEMPLATE_GROUPS
+from solid_broccoli.final.plot_template import plot_regression_by_age
 
 for group in TEMPLATE_GROUPS:
 

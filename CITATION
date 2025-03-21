@@ -1,6 +1,6 @@
-@Unpublished{DOE2024,
-    Title  = "EXAMPLE PROJECT",
-    Author = "JANE DOE",
+@Unpublished{CAL2025,
+    Title  = "solid_broccoli",
+    Author = "CAL",
     Year   = "2024",
-    Url    = "https://github.com/opensourceeconomics/econ-project-templates",
+    Url    = "https://github.com/LeticiaPieraerts/solid-broccoli.git",
 }

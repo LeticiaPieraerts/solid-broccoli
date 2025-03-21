@@ -2,8 +2,8 @@
 
 import pandas as pd
 
-from template_project.config import BLD, SRC
-from template_project.data_management.stats4schools_smoking_template import (
+from solid_broccoli.config import BLD, SRC
+from solid_broccoli.data_management.stats4schools_smoking_template import (
     clean_stats4schools_smoking,
 )
 
