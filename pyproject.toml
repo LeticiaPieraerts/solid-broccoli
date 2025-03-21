@@ -76,7 +76,7 @@ platforms = ["linux-64", "osx-64", "osx-arm64", "win-64"]
 [tool.pixi.dependencies]
 python = "~=3.13"
 jupyterlab = "*"
-pre-commit = "*"
+pre-commit = ">=4.2.0,<5"
 pytask  = ">=0.5.0"
 pytask-latex = ">=0.4.2"
 pytask-parallel = ">=0.5.0"
