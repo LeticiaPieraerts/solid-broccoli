@@ -6660,8 +6660,8 @@ packages:
   timestamp: 1637143137377
 - pypi: .
   name: solid-broccoli
-  version: 0.1.dev2+g8435030.d20250321
-  sha256: fc50c0bda177e0f9a3a7fbe4434927816dce3c04af90a11aa59f8376820a5a9d
+  version: 0.1.dev2+g8435030
+  sha256: 5c928230dea6e0e9c6e9bfd3050b59c8a72fa7800a01110ccc8b34fee89c7772
   requires_python: '>=3.11'
   editable: true
 - conda: https://conda.anaconda.org/conda-forge/noarch/soupsieve-2.5-pyhd8ed1ab_1.conda
